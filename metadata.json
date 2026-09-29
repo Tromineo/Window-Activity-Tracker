@@ -1,0 +1,7 @@
+{
+  "uuid": "contador-janelas@local",
+  "name": "Contador de Trocas de Janela",
+  "description": "Grava em ~/.local/share/contador-janelas/trocas.csv toda vez que o foco muda de aplicativo.",
+  "shell-version": ["49"],
+  "version": 1
+}
